@@ -11,3 +11,11 @@ BSUCA Faculty of Information and Document Communications specialty: librarian bi
 PERSONAL DATA
 GOALS AND PRIORITIES:
 Working on interesting projects, self-improvement, acquiring new experience
+Skills:
+Working with Databases (MySQL/NoSQL)
+Working with documentation (incoming /outgoing) according to the nomenclature of cases
+Communication with employees/clients
+Knowledge of the basics:
+HTML
+CSS
+Languages: English A2
