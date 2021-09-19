@@ -19,3 +19,5 @@ Knowledge of the basics:
 HTML
 CSS
 Languages: English A2
+Contacts:
++375255157963 imypolzovatelynet@gmail.com
