@@ -1,1 +1,0 @@
-https://ElenaLadnykh.github.io/rsschool-cv/cv
