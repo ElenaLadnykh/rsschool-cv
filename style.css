@@ -28,3 +28,10 @@
     float: left;
     text-align: left;
 }
+.foto-for-resume{
+    position: absolute;
+    top: 0px;
+    left: 30%; 
+    border: 20px solid rgba(248, 82, 5, 0.5);
+    z-index: 1;
+}
