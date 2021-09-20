@@ -35,3 +35,9 @@
     border: 20px solid rgba(248, 82, 5, 0.5);
     z-index: 1;
 }
+.footer{
+    position: absolute;
+    top: 90%;
+    background: #3DBEBB;
+
+} 
