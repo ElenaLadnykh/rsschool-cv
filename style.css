@@ -1,3 +1,30 @@
 .Background-White{
     color: cornsilk;
 }
+.block1{    
+    width: 55%;
+    min-height: 150px;
+    background: rgb(255, 255, 255);
+    opacity: 0.95;
+    border: solid 5px #3DBEBB;
+    float: right;
+    text-align: center;
+}
+.block2{    
+    width: 20%;
+    min-height: 20px;
+    background: rgb(255, 255, 255);
+    border: solid 5px #3DBEBB;
+
+    float: left;
+    text-align: center;
+}
+.block3{    
+    width: 40%;
+    min-height: 150px;
+    background: #3DBEBB;
+    opacity: 0.98;
+    border: solid 5px #edffff;
+    float: left;
+    text-align: left;
+}
