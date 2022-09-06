@@ -1,7 +1,8 @@
 # **LADNYKH ALENA**
 ![Alena](izi.jpg "im")
  ## **human* 
-## Hi, my name is Alena and i try to live intresting life
+## Hi, my name is Alena and i try to live intresting life 
+
 #
 ## **CONTACTS**
 
@@ -33,3 +34,4 @@
 * FIGMA            
 * SEO
 #
+## Have a good day
